@@ -2,7 +2,7 @@
 Finding number of group with Flood Fill algrotihm using c++ in OOP concept
 
 
-The purpose of project is findinf the number of group that consist of black cells. Flood fill algorithm is used to find number the number of 
+The purpose of project is finding the number of group that consist of black cells. Flood fill algorithm is used to find number the number of 
 group.
 
 
